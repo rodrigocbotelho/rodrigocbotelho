@@ -1,5 +1,2 @@
 ### Olá! Eu sou o Rodrigo Botelho
-<div align="center">
-  <a href="https://github.com/rodrigocbotelho">
-  <img height="150em" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api/top-langs.js"/>
-</div>
+[!(Codepen)(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rodrigocbotelho)
