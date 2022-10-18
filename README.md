@@ -3,9 +3,8 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rodrigocbotelho)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-botelho-881535248/)
 
-<div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?  username=rodrigocbotelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style=" display: flex;">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigocbotelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h3>Linguagens que estou aprendendo!</h3>
