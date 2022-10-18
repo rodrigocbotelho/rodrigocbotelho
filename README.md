@@ -4,8 +4,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-botelho-881535248/)
 
 <div style=" display: flex;">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=rodrigocbotelho&show_icons=true&theme=tokyonight"/>
-<img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=rodrigocbotelho&show_icons=true&theme=apprentice "/>
+<img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=apprentice "/>
 </div>
 
 <h3>Linguagens que estou aprendendo!</h3>
