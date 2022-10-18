@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-botelho-881535248/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocbotelho&show_icons=true&theme=tokyonight)
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=tokyonight"/>
+<img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocbotelho&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <h3>Linguagens que estou aprendendo!</h3>
 <div>
